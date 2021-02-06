@@ -1,5 +1,7 @@
 ### Hello World, I'm <a href="https://lambirou.github.io/">Roland Edi</a> ! 👋
 
+Web designer & developer. PHP, HTML, CSS, Javascript, SQL.
+
 
 <a href="https://twitter.com/lambirou225">
   <img align="left" alt="Roland Edi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
