@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Welbe](https://beta.welbe.fr)
 - 🌱 I’m currently learning React & React Native
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ...
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about [Horizom](https://horizom.gitbook.io)
 - 📫 How to reach me: [lambirou225@gmail.com](mailto:lambirou225@gmail.com)
 - 😄 Pronouns: The respect
 - ⚡ Fun fact: ...
