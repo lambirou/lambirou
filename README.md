@@ -23,8 +23,8 @@ Web designer & developer. PHP, HTML, CSS, Javascript, SQL.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Welbe](https://beta.welbe.fr)
-- 🌱 I’m currently learning React & React Native
+- 🔭 I’m currently working on [Welbe](https://www.welbe.fr)
+- 🌱 I’m currently learning Java & Kotlin
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about [Horizom](https://horizom.gitbook.io)
