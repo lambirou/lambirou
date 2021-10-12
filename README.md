@@ -16,6 +16,7 @@ Web designer & developer. PHP, HTML, CSS, Javascript, SQL.
   <img align="left" alt="Roland Edi Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+[![wakatime](https://wakatime.com/badge/user/bf9b1fb2-761c-4bfd-9f89-c9f1b33b69dd.svg)](https://wakatime.com/@bf9b1fb2-761c-4bfd-9f89-c9f1b33b69dd)
 
 <br/>
 <br/>
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
