@@ -1,6 +1,6 @@
-### Hello World, I'm <a href="https://lambirou.github.io/">Roland Edi</a> ! 👋
+## Hello World, I'm <a href="https://lambirou.github.io/">Roland Edi</a> ! 👋
 
-Web designer & developer. PHP, HTML, CSS, Javascript, SQL.
+Web / Mobile developer, Web designer. PHP, HTML, CSS, Javascript, SQL.
 
 
 <a href="https://www.twitter.com/lambirou225">
