@@ -23,14 +23,14 @@ Web / Mobile developer, Web designer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [SoutraMoi](https://www.soutramoi.com)
+- 🔭 I’m currently working on Web Native apps
 - 🌱 I’m currently learning Java, Kotlin & Spring Boot
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about [Horizom](https://horizom.gitbook.io)
-- 📫 How to reach me: [lambirou225@gmail.com](mailto:lambirou225@gmail.com)
+- 👯 I’m looking to collaborate on Open Source projects
+- ⚙️ I use daily: .php, .ts, .js, .html, .css
+- 💬 Ask me about Angular (and everything else, i'm happy to help ✌️)
+- 📫 How to reach me: LinkedIn, E-Mail
 - 😄 Pronouns: The respect
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a huge fan of GTA
 
 
 **Languages and Tools:**
