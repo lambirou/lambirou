@@ -48,3 +48,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+
+![](https://raw.githubusercontent.com/lambirou/profile-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/lambirou/profile-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/lambirou/profile-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lambirou/profile-stats/master/generated/languages.svg#gh-dark-mode-only)
